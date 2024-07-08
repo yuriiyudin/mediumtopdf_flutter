@@ -1,0 +1,1 @@
+const String apiRoute = 'http://188.245.65.219:8080/api/extractor';
