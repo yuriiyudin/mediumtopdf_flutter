@@ -1,0 +1,10 @@
+C:/flutter projects/medium_extractor_frontend/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/flutter projects/medium_extractor_frontend/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/flutter projects/medium_extractor_frontend/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/flutter projects/medium_extractor_frontend/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/flutter projects/medium_extractor_frontend/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/flutter projects/medium_extractor_frontend/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/flutter projects/medium_extractor_frontend/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/flutter projects/medium_extractor_frontend/build/windows/x64/runner/CMakeFiles/medium_extractor_frontend.dir
+C:/flutter projects/medium_extractor_frontend/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/flutter projects/medium_extractor_frontend/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
